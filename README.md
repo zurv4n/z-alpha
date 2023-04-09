@@ -1,6 +1,9 @@
 # z-alpha
 An alpha base for RedM
 
+To use:
+Please create a server and then replace the resources folder with he onincluded in this repo and also replace the resources.cfg file from this repo. The instructions for installing a server can be found here: https://www.youtube.com/watch?v=ECx70qGzTQI
+
 Pre Made Server with the base essentials and bug fixes
 
 This server acts as a base for those that want to start a server using VORP Core. This server in its current state provides the bare essentials in a working state with many issues and bugs being remedied. It contains updated icon images, provides means for confident usage of metabolism and other base Vorp scripts. It is purposely created to serve as a working base for others to build from.
