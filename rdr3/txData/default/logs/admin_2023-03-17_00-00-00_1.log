@@ -1,0 +1,398 @@
+
+================================================================
+======== txAdmin Starting - 3/17/2023, 2:51:03 AM               
+================================================================
+[02:51:54][zurv4n] created admins file
+[02:51:58][zurv4n] logged in from 127.0.0.1 via citizenfx
+[02:52:18][zurv4n] Changing global settings via setup stepper and started Deployer.
+[02:52:25][zurv4n] Setting recipe.
+[02:52:56][zurv4n] Running recipe.
+[02:54:12][zurv4n] Completed and committed server deploy.
+[02:55:22][zurv4n] executed "RESTART SERVER"
+[02:56:23][zurv4n] Changing discordBot settings.
+[02:57:04][zurv4n] Changing Player Controller settings.
+[02:57:09][zurv4n] executed "RESTART SERVER"
+[02:57:59][zurv4n] logged in via in-game ui
+[02:59:02][zurv4n] executed "STOP SERVER"
+[03:07:55][zurv4n] executed "START SERVER"
+[03:08:47][zurv4n] logged in via in-game ui
+[03:10:29][zurv4n] executed "STOP SERVER"
+
+================================================================
+======== txAdmin Starting - 3/17/2023, 4:17:37 AM               
+================================================================
+[04:17:59][zurv4n] logged in from 192.168.4.51 via citizenfx
+[04:19:10][zurv4n] executed "RESTART SERVER"
+[04:20:21][zurv4n] logged in via in-game ui
+[04:22:05][zurv4n] Editing user 'zurv4n'.
+[04:22:23][zurv4n] executed "RESTART SERVER"
+[04:23:05][zurv4n] logged in via in-game ui
+[04:38:03][zurv4n] executed "STOP SERVER"
+[04:40:32][zurv4n] executed "START SERVER"
+[04:40:57][zurv4n] logged in via in-game ui
+[04:44:14][zurv4n] logged in from via NUI iframe
+[04:44:51][zurv4n] Added 692a52f428526e7580edff20bbd972346e57aca3 to the whitelist.
+[04:59:40][zurv4n] executed "STOP SERVER"
+[05:10:59][zurv4n] executed "START SERVER"
+[05:11:51][zurv4n] logged in via in-game ui
+[13:32:44][zurv4n] Changing Player Controller settings.
+[13:32:49][zurv4n] executed "RESTART SERVER"
+[13:34:01][zurv4n] logged in via in-game ui
+[13:45:29][zurv4n] executed "ensure "mumble""
+[13:51:47][zurv4n] Changing Player Controller settings.
+[13:56:13][zurv4n] executed "RESTART SERVER"
+[13:57:17][zurv4n] logged in via in-game ui
+[14:14:48][zurv4n] executed "RESTART SERVER"
+[14:15:22][zurv4n] logged in via in-game ui
+[14:48:43][zurv4n] executed "STOP SERVER"
+[15:58:33][zurv4n] executed "START SERVER"
+[15:59:55][zurv4n] logged in via in-game ui
+[16:04:14][zurv4n] executed "RESTART SERVER"
+[16:05:10][zurv4n] logged in via in-game ui
+[16:24:20][zurv4n] executed "RESTART SERVER"
+[16:25:24][zurv4n] logged in via in-game ui
+[16:27:29][zurv4n] executed "STOP SERVER"
+[16:29:04][zurv4n] executed "START SERVER"
+[16:30:23][zurv4n] logged in via in-game ui
+[16:47:06][zurv4n] executed "STOP SERVER"
+[16:51:05][zurv4n] executed "START SERVER"
+[16:52:20][zurv4n] logged in via in-game ui
+[17:05:27][zurv4n] logged in via in-game ui
+[17:20:03][zurv4n] executed "RESTART SERVER"
+[17:20:55][zurv4n] logged in via in-game ui
+[17:49:51][zurv4n] Adding admin 'sehri'.
+[17:49:51][zurv4n] logged in via in-game ui
+[17:51:33][zurv4n] Editing user 'sehri'.
+[17:51:33][zurv4n] logged in via in-game ui
+[17:51:33][sehri] logged in via in-game ui
+[17:51:53][zurv4n] Editing user 'sehri'.
+[17:51:53][zurv4n] logged in via in-game ui
+[17:51:53][sehri] logged in via in-game ui
+[17:52:13][zurv4n] Editing user 'sehri'.
+[17:52:13][zurv4n] logged in via in-game ui
+[17:52:13][sehri] logged in via in-game ui
+[17:52:24][zurv4n] Editing user 'sehri'.
+[17:52:24][zurv4n] logged in via in-game ui
+[17:52:25][sehri] logged in via in-game ui
+[17:53:12][zurv4n] Adding admin 'Bryson'.
+[17:53:12][zurv4n] logged in via in-game ui
+[17:53:12][Bryson] logged in via in-game ui
+[17:53:12][sehri] logged in via in-game ui
+[18:14:29][zurv4n] logged in from via NUI iframe
+[18:34:25][sehri] logged in via in-game ui
+[18:51:59][zurv4n] Editing user 'sehri'.
+[18:52:00][sehri] logged in via in-game ui
+[18:52:13][zurv4n] Editing user 'Bryson'.
+[18:52:13][sehri] logged in via in-game ui
+[18:57:54][Bryson] logged in via in-game ui
+[18:59:59][zurv4n] Editing user 'sehri'.
+[18:59:59][Bryson] logged in via in-game ui
+[18:59:59][sehri] logged in via in-game ui
+[19:08:58][zurv4n] Sending announcement: need to restart
+[19:11:51][zurv4n] executed "RESTART SERVER"
+[19:12:00][zurv4n] executed "STOP SERVER"
+[19:14:13][zurv4n] executed "START SERVER"
+[19:14:36][Bryson] logged in via in-game ui
+[19:15:08][zurv4n] logged in via in-game ui
+[19:17:04][zurv4n] executed "ensure "bcc_scene""
+[19:20:54][zurv4n] Deleting user 'Bryson'.
+[19:20:54][zurv4n] logged in via in-game ui
+[19:21:00][zurv4n] logged in from via NUI iframe
+[19:21:20][zurv4n] Adding admin 'bryson'.
+[19:21:20][zurv4n] logged in via in-game ui
+[19:21:20][bryson] logged in via in-game ui
+[19:22:18][zurv4n] Deleting user 'bryson'.
+[19:22:18][zurv4n] logged in via in-game ui
+[19:23:35][zurv4n] Adding admin 'bryson'.
+[19:23:35][zurv4n] logged in via in-game ui
+[19:23:35][bryson] logged in via in-game ui
+[19:25:21][bryson] logged in via in-game ui
+[19:25:29][bryson] logged in from via NUI iframe
+[19:25:53][bryson] Changing own password.
+[19:25:53][zurv4n] logged in via in-game ui
+[19:25:53][bryson] logged in via in-game ui
+[19:27:57][zurv4n] executed "RESTART SERVER"
+[19:28:24][zurv4n] logged in via in-game ui
+[19:29:15][bryson] logged in via in-game ui
+[19:36:24][zurv4n] Editing user 'bryson'.
+[19:36:25][zurv4n] logged in via in-game ui
+[19:36:25][bryson] logged in via in-game ui
+[19:36:49][zurv4n] Editing user 'bryson'.
+[19:36:49][zurv4n] logged in via in-game ui
+[19:36:49][bryson] logged in via in-game ui
+[19:37:24][zurv4n] Editing user 'bryson'.
+[19:37:24][zurv4n] logged in via in-game ui
+[19:37:24][bryson] logged in via in-game ui
+[19:37:42][zurv4n] Editing user 'bryson'.
+[19:37:42][zurv4n] logged in via in-game ui
+[19:37:42][bryson] logged in via in-game ui
+[19:38:13][zurv4n] Editing user 'bryson'.
+[19:38:13][zurv4n] logged in via in-game ui
+[19:38:13][bryson] logged in via in-game ui
+[19:38:20][zurv4n] Editing user 'bryson'.
+[19:38:20][zurv4n] logged in via in-game ui
+[19:38:20][bryson] logged in via in-game ui
+[20:27:16][zurv4n] executed "RESTART SERVER"
+[20:28:14][zurv4n] logged in via in-game ui
+[20:33:05][zurv4n] executed "ensure "bcc_scene""
+[20:34:22][zurv4n] executed "RESTART SERVER"
+[20:34:56][zurv4n] logged in via in-game ui
+[20:35:46][zurv4n] executed "RESTART SERVER"
+[20:36:34][zurv4n] logged in via in-game ui
+[20:39:08][zurv4n] logged in via in-game ui
+[20:52:08][zurv4n] executed "RESTART SERVER"
+[20:53:01][zurv4n] logged in via in-game ui
+[22:50:33][zurv4n] logged in via in-game ui
+[23:25:02][zurv4n] logged in from 192.168.4.51 via citizenfx
+[23:30:12][zurv4n] executed "RESTART SERVER"
+[23:31:21][zurv4n] logged in via in-game ui
+[01:10:03][zurv4n] executed "RESTART SERVER"
+[01:42:47][zurv4n] executed "RESTART SERVER"
+[01:43:47][zurv4n] logged in via in-game ui
+[06:28:27][zurv4n] logged in from 192.168.4.51 via citizenfx
+[06:28:31][zurv4n] executed "RESTART SERVER"
+[06:30:17][zurv4n] logged in via in-game ui
+[06:43:29][zurv4n] executed "RESTART SERVER"
+[06:44:48][zurv4n] logged in via in-game ui
+[06:50:52][zurv4n] executed "RESTART SERVER"
+[06:51:31][zurv4n] logged in via in-game ui
+[07:03:41][zurv4n] executed "RESTART SERVER"
+[07:04:10][zurv4n] executed "RESTART SERVER"
+[07:04:54][zurv4n] executed "RESTART SERVER"
+[07:05:49][zurv4n] logged in via in-game ui
+[07:58:05][zurv4n] executed "RESTART SERVER"
+[08:46:24][zurv4n] executed "RESTART SERVER"
+[12:55:52][zurv4n] executed "RESTART SERVER"
+[12:57:14][zurv4n] logged in via in-game ui
+[13:04:59][zurv4n] executed "RESTART SERVER"
+[13:05:40][zurv4n] logged in via in-game ui
+[13:52:11][zurv4n] executed "RESTART SERVER"
+[14:16:03][zurv4n] logged in via in-game ui
+[14:21:54][zurv4n] logged in via in-game ui
+[15:02:16][zurv4n] executed "RESTART SERVER"
+[15:03:17][zurv4n] logged in via in-game ui
+[15:06:30][zurv4n] executed "ensure "vorp_metabolism""
+[15:07:44][zurv4n] executed "ensure "vorp_metabolism""
+[15:10:32][zurv4n] executed "ensure "vorp_metabolism""
+[15:11:23][zurv4n] executed "ensure "vorp_metabolism""
+[15:11:52][zurv4n] executed "ensure "vorp_metabolism""
+[15:12:24][zurv4n] executed "ensure "vorp_metabolism""
+[15:13:20][zurv4n] executed "ensure "vorp_metabolism""
+[15:13:43][zurv4n] executed "ensure "vorp_metabolism""
+[15:14:04][zurv4n] executed "ensure "vorp_metabolism""
+[15:14:37][zurv4n] executed "ensure "vorp_metabolism""
+[15:16:06][zurv4n] executed "ensure "vorp_metabolism""
+[15:17:09][zurv4n] executed "ensure "vorp_metabolism""
+[15:18:46][zurv4n] executed "ensure "vorp_metabolism""
+[15:19:08][zurv4n] executed "ensure "vorp_metabolism""
+[15:19:26][zurv4n] executed "ensure "vorp_metabolism""
+[15:19:55][zurv4n] executed "ensure "vorp_metabolism""
+[15:20:13][zurv4n] executed "ensure "vorp_metabolism""
+[15:21:49][zurv4n] executed "ensure "vorp_metabolism""
+[15:22:11][zurv4n] executed "ensure "vorp_metabolism""
+[15:23:13][zurv4n] executed "ensure "vorp_metabolism""
+[15:25:34][zurv4n] executed "ensure "vorp_metabolism""
+[15:26:41][zurv4n] executed "ensure "vorp_metabolism""
+[15:28:29][zurv4n] executed "ensure "vorp_metabolism""
+[15:29:51][zurv4n] executed "ensure "green_canteen""
+[15:30:20][zurv4n] executed "RESTART SERVER"
+[15:31:23][zurv4n] logged in via in-game ui
+[15:58:35][zurv4n] executed "ensure "green_canteen""
+[16:39:38][zurv4n] executed "ensure "vorp_metabolism""
+[16:41:20][zurv4n] executed "ensure "bcc_scene""
+[17:50:10][zurv4n] executed "RESTART SERVER"
+[17:51:18][zurv4n] logged in via in-game ui
+[17:52:51][zurv4n] executed "ensure "ricx_scene""
+[21:53:58][zurv4n] executed "RESTART SERVER"
+[08:13:40][zurv4n] logged in from 192.168.4.51 via citizenfx
+[08:22:57][zurv4n] executed "RESTART SERVER"
+[08:24:15][zurv4n] logged in via in-game ui
+[08:27:55][zurv4n] executed "RESTART SERVER"
+[08:29:09][zurv4n] logged in via in-game ui
+[08:32:11][zurv4n] executed "ensure "vorp_metabolism""
+[09:27:43][zurv4n] logged in from 192.168.4.51 via citizenfx
+[15:15:08][zurv4n] executed "RESTART SERVER"
+[15:16:25][zurv4n] logged in via in-game ui
+[15:31:20][zurv4n] logged in via in-game ui
+[16:30:22][zurv4n] executed "RESTART SERVER"
+[16:31:34][zurv4n] logged in via in-game ui
+[17:05:45][zurv4n] executed "STOP SERVER"
+[17:06:07][zurv4n] executed "START SERVER"
+[17:07:12][zurv4n] logged in via in-game ui
+[17:17:58][zurv4n] executed "RESTART SERVER"
+[17:23:08][zurv4n] executed "RESTART SERVER"
+[17:24:36][zurv4n] logged in via in-game ui
+[17:36:37][zurv4n] executed "RESTART SERVER"
+[17:37:36][zurv4n] logged in via in-game ui
+[17:42:49][zurv4n] executed "RESTART SERVER"
+[17:44:24][zurv4n] logged in via in-game ui
+[17:55:37][zurv4n] executed "RESTART SERVER"
+[17:57:04][zurv4n] executed "RESTART SERVER"
+[17:58:06][zurv4n] logged in via in-game ui
+[18:07:57][zurv4n] executed "RESTART SERVER"
+[18:09:08][zurv4n] logged in via in-game ui
+[18:10:28][zurv4n] executed "RESTART SERVER"
+[18:11:28][zurv4n] logged in via in-game ui
+[21:24:07][zurv4n] logged in via in-game ui
+[21:33:36][zurv4n] executed "RESTART SERVER"
+[21:34:36][zurv4n] logged in via in-game ui
+[21:35:41][zurv4n] executed "RESTART SERVER"
+[23:01:48][zurv4n] logged in via in-game ui
+[23:06:26][zurv4n] Changing Player Controller settings.
+[23:06:32][zurv4n] executed "RESTART SERVER"
+[23:06:58][zurv4n] executed "RESTART SERVER"
+[11:17:51][sehri] logged in via in-game ui
+[13:13:25][zurv4n] logged in from 192.168.4.51 via citizenfx
+[13:13:32][zurv4n] executed "RESTART SERVER"
+[13:15:17][zurv4n] executed "RESTART SERVER"
+[16:57:12][zurv4n] executed "ensure "vorp_metabolism""
+[16:57:28][zurv4n] executed "ensure "vorp_metabolism""
+[16:57:46][zurv4n] executed "ensure "vorp_metabolism""
+[16:58:04][zurv4n] executed "ensure "vorp_metabolism""
+[16:58:36][zurv4n] executed "ensure "vorp_metabolism""
+[16:58:52][zurv4n] executed "ensure "vorp_metabolism""
+[16:59:07][zurv4n] executed "ensure "vorp_metabolism""
+[16:59:22][zurv4n] executed "ensure "vorp_metabolism""
+[17:01:07][zurv4n] executed "ensure "vorp_metabolism""
+[17:01:36][zurv4n] executed "ensure "vorp_metabolism""
+[17:02:01][zurv4n] executed "ensure "vorp_metabolism""
+[17:02:17][zurv4n] executed "ensure "vorp_metabolism""
+[17:02:29][zurv4n] executed "ensure "vorp_metabolism""
+[17:02:44][zurv4n] executed "ensure "vorp_metabolism""
+[17:03:54][zurv4n] executed "ensure "vorp_metabolism""
+[17:04:27][zurv4n] executed "ensure "vorp_metabolism""
+[17:05:58][zurv4n] executed "ensure "vorp_metabolism""
+[17:07:35][zurv4n] executed "ensure "vorp_metabolism""
+[17:08:56][zurv4n] executed "ensure "vorp_metabolism""
+[17:09:11][zurv4n] executed "ensure "vorp_metabolism""
+[17:11:37][zurv4n] executed "ensure "vorp_metabolism""
+[17:13:40][zurv4n] executed "ensure "vorp_metabolism""
+[17:14:03][zurv4n] executed "ensure "vorp_metabolism""
+[17:14:16][zurv4n] executed "ensure "vorp_metabolism""
+[17:14:30][zurv4n] executed "ensure "vorp_metabolism""
+[17:19:37][zurv4n] executed "ensure "vorp_metabolism""
+[17:20:31][zurv4n] executed "ensure "vorp_metabolism""
+[17:20:51][zurv4n] executed "ensure "vorp_metabolism""
+[17:21:09][zurv4n] executed "ensure "vorp_metabolism""
+[17:21:28][zurv4n] executed "ensure "vorp_metabolism""
+[17:21:39][zurv4n] executed "ensure "vorp_metabolism""
+[17:22:04][zurv4n] executed "ensure "vorp_metabolism""
+[17:22:16][zurv4n] executed "ensure "vorp_metabolism""
+[17:26:36][zurv4n] executed "ensure "vorp_metabolism""
+[17:28:17][zurv4n] executed "ensure "vorp_metabolism""
+[17:28:35][zurv4n] executed "ensure "vorp_metabolism""
+[17:28:47][zurv4n] executed "ensure "vorp_metabolism""
+[17:29:24][zurv4n] executed "ensure "vorp_metabolism""
+[17:30:31][zurv4n] executed "ensure "vorp_metabolism""
+[17:30:47][zurv4n] executed "ensure "vorp_metabolism""
+[17:31:41][zurv4n] executed "ensure "vorp_metabolism""
+[17:31:58][zurv4n] executed "ensure "vorp_metabolism""
+[17:32:11][zurv4n] executed "ensure "vorp_metabolism""
+[17:32:34][zurv4n] executed "ensure "vorp_metabolism""
+[17:32:53][zurv4n] executed "ensure "vorp_metabolism""
+[17:33:09][zurv4n] executed "ensure "vorp_metabolism""
+[17:33:22][zurv4n] executed "ensure "vorp_metabolism""
+[17:33:35][zurv4n] executed "ensure "vorp_metabolism""
+[17:33:52][zurv4n] executed "ensure "vorp_metabolism""
+[17:34:12][zurv4n] executed "ensure "vorp_metabolism""
+[17:34:30][zurv4n] executed "ensure "vorp_metabolism""
+[17:34:44][zurv4n] executed "ensure "vorp_metabolism""
+[17:34:56][zurv4n] executed "ensure "vorp_metabolism""
+[17:35:13][zurv4n] executed "ensure "vorp_metabolism""
+[17:35:34][zurv4n] executed "ensure "vorp_metabolism""
+[17:35:52][zurv4n] executed "ensure "vorp_metabolism""
+[17:43:41][zurv4n] executed "ensure "vorp_metabolism""
+[17:44:14][zurv4n] executed "ensure "vorp_metabolism""
+[17:44:36][zurv4n] executed "ensure "vorp_metabolism""
+[17:45:01][zurv4n] executed "ensure "vorp_metabolism""
+[17:45:52][zurv4n] executed "ensure "vorp_metabolism""
+[17:46:03][zurv4n] executed "ensure "vorp_metabolism""
+[17:46:14][zurv4n] executed "ensure "vorp_metabolism""
+[17:46:24][zurv4n] executed "ensure "vorp_metabolism""
+[17:46:34][zurv4n] executed "ensure "vorp_metabolism""
+[17:47:03][zurv4n] executed "ensure "vorp_metabolism""
+[17:47:18][zurv4n] executed "ensure "vorp_metabolism""
+[17:47:29][zurv4n] executed "ensure "vorp_metabolism""
+[17:47:45][zurv4n] executed "ensure "vorp_metabolism""
+[17:47:57][zurv4n] executed "ensure "vorp_metabolism""
+[17:48:17][zurv4n] executed "ensure "vorp_metabolism""
+[17:48:41][zurv4n] executed "ensure "vorp_metabolism""
+[17:48:53][zurv4n] executed "ensure "vorp_metabolism""
+[17:49:12][zurv4n] executed "RESTART SERVER"
+[17:50:48][zurv4n] logged in via in-game ui
+[17:52:51][zurv4n] executed "ensure "vorp_metabolism""
+[17:54:57][zurv4n] executed "ensure "vorp_metabolism""
+[17:56:18][zurv4n] logged in via in-game ui
+[17:58:13][zurv4n] executed "txaKickAll "txAdmin Web Panel""
+[17:58:22][zurv4n] executed "RESTART SERVER"
+[17:58:39][zurv4n] logged in via in-game ui
+[18:05:29][zurv4n] executed "ensure "vorp_metabolism""
+[18:06:21][zurv4n] logged in via in-game ui
+[18:09:17][zurv4n] executed "ensure "vorp_metabolism""
+[18:09:30][zurv4n] executed "ensure "vorp_metabolism""
+[18:10:23][zurv4n] logged in via in-game ui
+[18:20:59][zurv4n] executed "ensure "vorp_metabolism""
+[18:21:57][zurv4n] executed "ensure "vorp_metabolism""
+[18:23:03][zurv4n] executed "ensure "vorp_metabolism""
+[18:23:15][zurv4n] executed "ensure "vorp_metabolism""
+[18:23:43][zurv4n] executed "ensure "vorp_metabolism""
+[18:25:49][zurv4n] executed "ensure "vorp_metabolism""
+[18:26:44][zurv4n] logged in via in-game ui
+[18:28:37][zurv4n] executed "ensure "vorp_metabolism""
+[18:31:05][zurv4n] executed "ensure "vorp_metabolism""
+[18:31:35][zurv4n] executed "ensure "vorp_metabolism""
+[18:31:51][zurv4n] executed "ensure "vorp_metabolism""
+[18:32:10][zurv4n] executed "ensure "vorp_metabolism""
+[18:32:36][zurv4n] executed "ensure "vorp_metabolism""
+[18:44:55][zurv4n] executed "ensure "vorp_metabolism""
+[18:45:07][zurv4n] executed "ensure "vorp_metabolism""
+[18:45:17][zurv4n] executed "ensure "vorp_metabolism""
+[18:45:26][zurv4n] executed "ensure "vorp_metabolism""
+[18:45:36][zurv4n] executed "ensure "vorp_metabolism""
+[18:46:33][zurv4n] logged in via in-game ui
+[18:48:02][zurv4n] executed "ensure "vorp_metabolism""
+[18:48:14][zurv4n] executed "ensure "vorp_metabolism""
+[18:48:46][zurv4n] executed "ensure "vorp_metabolism""
+[18:49:47][zurv4n] logged in via in-game ui
+[18:59:53][zurv4n] executed "STOP SERVER"
+[19:00:30][zurv4n] executed "START SERVER"
+[19:01:53][zurv4n] logged in via in-game ui
+[19:22:16][sehri] logged in via in-game ui
+[19:24:56][sehri] logged in via in-game ui
+[19:30:08][zurv4n] executed "txaKickAll "txAdmin Web Panel""
+[19:30:30][zurv4n] executed "RESTART SERVER"
+[19:30:58][zurv4n] logged in via in-game ui
+[19:31:01][sehri] logged in via in-game ui
+[19:40:27][zurv4n] Editing user 'sehri'.
+[19:40:27][zurv4n] logged in via in-game ui
+[19:40:27][sehri] logged in via in-game ui
+[19:57:24][zurv4n] executed "ensure "spooner""
+[20:04:48][zurv4n] logged in from via NUI iframe
+[20:40:27][zurv4n] executed "RESTART SERVER"
+[02:00:57][zurv4n] logged in via in-game ui
+[21:53:40][zurv4n] logged in from 192.168.4.51 via citizenfx
+[21:53:52][zurv4n] executed "RESTART SERVER"
+[21:54:17][zurv4n] executed "RESTART SERVER"
+[22:05:43][zurv4n] Sending announcement: I dont actually have to be in to do shit to you
+[22:06:06][zurv4n] Warned player [1] Colt Johnson: put on some clothes
+[23:57:32][zurv4n] logged in from 192.168.4.51 via citizenfx
+[23:57:37][zurv4n] executed "RESTART SERVER"
+[23:59:06][zurv4n] logged in via in-game ui
+[00:16:19][zurv4n] executed "RESTART SERVER"
+[21:25:48][zurv4n] executed "STOP SERVER"
+[22:12:51][zurv4n] executed "START SERVER"
+[22:13:13][zurv4n] executed "RESTART SERVER"
+[22:44:24][zurv4n] Sending announcement: I see you
+[23:17:01][zurv4n] executed "RESTART SERVER"
+[23:18:22][zurv4n] logged in via in-game ui
+[23:22:24][zurv4n] executed "RESTART SERVER"
+[23:22:45][zurv4n] executed "RESTART SERVER"
+[23:24:22][zurv4n] logged in via in-game ui
+[23:29:10][zurv4n] executed "RESTART SERVER"
+[23:30:27][zurv4n] logged in via in-game ui
+[23:41:30][zurv4n] executed "RESTART SERVER"
+[23:43:04][zurv4n] logged in via in-game ui
+[23:47:13][zurv4n] executed "RESTART SERVER"
+[23:48:39][zurv4n] logged in via in-game ui
+[23:58:49][zurv4n] logged in from 192.168.4.51 via citizenfx
+[23:58:51][zurv4n] executed "RESTART SERVER"
