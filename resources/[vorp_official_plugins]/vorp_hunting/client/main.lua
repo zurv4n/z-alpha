@@ -200,7 +200,7 @@ Citizen.CreateThread(function()
             local quality = Citizen.InvokeNative(0x31FEF6A20F00B963, holding)
             local dist = GetDistanceBetweenCoords(playerCoords.x, playerCoords.y, playerCoords.z, horsecoords.x, horsecoords.y, horsecoords.z, 0)
 
-            --[[if 2 > dist then
+            if 2 > dist then
                 local model = GetEntityModel(holding)
                 if holding ~= false and Config.Animals[model] == nil then
 
@@ -223,7 +223,7 @@ Citizen.CreateThread(function()
                         end
                     end
                 end
-            end]]--
+            end
         end
     end
 end)
